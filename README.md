@@ -1,20 +1,18 @@
 # "Arduino-Smart-Car"
 
-[![Build Status](https://travis-ci.com/{{USERNAME}}/Arduino-Smart-Car.svg?branch=master)](https://travis-ci.com/{{USERNAME}}/Arduino-Smart-Car)
-![GitHub](https://img.shields.io/github/license/{{USERNAME}}/Arduino-Smart-Car.svg)
-
-## {{ STORY GOES HERE}}
+[![Build Status](https://travis-ci.com/mmphego/Arduino-Smart-Car.svg?branch=master)](https://travis-ci.com/mmphego/Arduino-Smart-Car)
+![GitHub](https://img.shields.io/github/license/mmphego/Arduino-Smart-Car.svg)
 
 
-## {{ INSTALLATION }}
+## INSTALLATION
 
 
-## {{ USAGE }}
+## USAGE
 
 
 ## Oh, Thanks!
 
-By the way... Click if you'd like to [say thanks](https://saythanks.io/to/{{USERNAME}})... :) else *Star* it.
+By the way... Click if you'd like to [say thanks](https://saythanks.io/to/mmphego)... :) else *Star* it.
 
 ✨🍰✨
 
