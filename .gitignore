@@ -57,3 +57,9 @@ Mkfile.old
 dkms.conf
 
 # End of https://www.gitignore.io/api/c
+
+.pio
+.pioenvs
+.piolibdeps
+.clang_complete
+.gcc-flags.json
