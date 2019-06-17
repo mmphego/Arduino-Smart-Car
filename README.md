@@ -4,10 +4,10 @@
 ![GitHub](https://img.shields.io/github/license/mmphego/Arduino-Smart-Car.svg)
 
 
-## INSTALLATION
+## Installation
 
 
-## USAGE
+## Usage
 
 
 ## Oh, Thanks!
