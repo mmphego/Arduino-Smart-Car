@@ -1,4 +1,4 @@
-# "Arduino-Smart-Car"
+# Arduino-Smart-Car
 
 [![Build Status](https://travis-ci.com/mmphego/Arduino-Smart-Car.svg?branch=master)](https://travis-ci.com/mmphego/Arduino-Smart-Car)
 ![GitHub](https://img.shields.io/github/license/mmphego/Arduino-Smart-Car.svg)
